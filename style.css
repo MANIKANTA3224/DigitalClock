@@ -1,0 +1,24 @@
+*{
+    padding: 0%;
+    margin: auto;
+    font-family: sans-serif;
+}
+html,body{
+    place-items: center;
+    display:grid ;
+    height: 100%;
+   
+}
+.wrapper{
+    height: 100px;
+    width: 300px;
+    background-color:skyblue;
+    text-align: center;
+    padding-top:55px;
+    border-radius: 10px;
+    font-size: 3pc;
+}
+.wrapper .display{
+    background:orange;
+    width: 100%;
+}
